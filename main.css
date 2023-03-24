@@ -184,8 +184,9 @@ header .login_btn:hover {
 	height: 100%;
 }
 .main .block_info .project {
+	font-weight: bold;
 	color: white;
-    font-size: 30px;
+    font-size: 50px;
     line-height: 100px;
 	margin-top: 100px;
 	background: -moz-linear-gradient(90deg, rgba(181,7,7,1) 0%, rgba(255,132,32,1) 100%);
